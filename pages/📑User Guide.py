@@ -116,7 +116,7 @@ with st.container():
     col1,col2 = st.columns(2,gap="large")
     with col1:
         st.markdown("**8. Exit the conversation**")
-        annotated_text(('Using the following terms indicate the end of the conversation with the bot'),("  "),('bye ',"keyword"),("  "),('quite ',"keyword"),("  "),('done ',"keyword"),("  "),('exit ',"keyword"))
+        annotated_text(('Using the following terms indicate the end of the conversation with the bot'),("  "),('bye ',"keyword"),("  "),('quit ',"keyword"),("  "),('done ',"keyword"),("  "),('exit ',"keyword"))
 
     with col2:
         message("Thank you bot, bye ",is_user=True)
