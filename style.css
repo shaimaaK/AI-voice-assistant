@@ -1,0 +1,13 @@
+/* #stHorizontalBlock{
+    background-color: red;
+} */
+
+
+body {
+    background-color: lightgoldenrodyellow;
+  }
+  
+  /* div[data-testid="stHorizontalBlock"]> div:first-of-type {
+    background-color: rgb(223, 223, 217);
+    padding : 10px
+  } */

@@ -1,0 +1,8 @@
+folium==0.14.0
+pandas==1.5.3
+pyttsx3==2.90
+SpeechRecognition==3.8.1
+st_annotated_text==4.0.0
+streamlit==1.19.0
+streamlit_chat==0.0.2.2
+streamlit_folium==0.11.1
