@@ -49,18 +49,7 @@ data = {"Time":["10 min","30 min", "10 min", "20 min","30 min", "30 min","30 min
 df = pd.DataFrame(data)
 st.table(df)
 
-#14 row
 
-#sidebar
-#st.sidebar.success("select one of the above")
-# with st.sidebar:
-#     st.header("AI Voice Assistant")
-#     st.subheader("User Manual")
-#     st.subheader("Test the Product")
-#     st.subheader("About")
-#     st.subheader("Contact")
-#     st.subheader("Location")
-#     #st.write("done")
 
 
 
